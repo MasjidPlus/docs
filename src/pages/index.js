@@ -5,7 +5,8 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import styles from "./index.module.css";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
-import Intro from "@site/docs/01-intro.md";
+ import Intro from "@site/docs/01-intro.md";
+// import Intro from "@site/docs/02-personal-story.md";
 // import Homepage from "@site/src/pages/Homepage.html";
 
 let html = `

@@ -29,7 +29,7 @@ const FeatureList = [
     description: (
       <>
         We are all part of ONE community<br/>
-        striving for the best of this life and next.
+        striving for the Mercy of Allah.
       </>
     ),
   },

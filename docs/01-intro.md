@@ -19,6 +19,5 @@ We started this initiative with the goal of connecting and empowering people in 
 
 We also aimed to provide Masjids and organizations with a free platform for community members to find them and to grow their congregation and student body. Ultimately to encourage a more conscious, welcoming and prophetic way of life. 
 
-It takes only a moment to post your event to Masjid Plus and only Allah knows how many good deeds will be carried forward through our collective actions. Its not the beautiful building but the warmth of people that bring out the core aspect of masjid connections. The Masjid is the center of our community, lets all meet there In sha Allah
 
 ### Come to prayer! Come to Success!
