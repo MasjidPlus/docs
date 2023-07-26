@@ -83,7 +83,7 @@ const config = {
             position: "left",
             label: "Tutorial",
           },
-          // { to: "/blog", label: "Blog", position: "left" },
+          { to: "/blog", label: "Blog", position: "left" },
           // {
           //   href: "https://github.com/facebook/docusaurus",
           //   label: "GitHub",
@@ -136,7 +136,7 @@ const config = {
         // ],
         copyright: `<div><div>Made with ❤ MasjidPlus</div>
         <div style="display: inline-flex">
-          <a href="tel:19048009911">Text Us</a>
+          <a href="tel:13218008082">Text Us</a>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <a href="mailto:masjidplus@gmail.com">Email Us</a>
         </div>
